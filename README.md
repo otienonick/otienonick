@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love  banter😻
-- 🌱 I’m currently learning Go language.
+- 🌱 I’m currently focusing on Go language.
 
 
 
