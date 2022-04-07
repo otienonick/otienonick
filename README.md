@@ -66,5 +66,5 @@
 
 
 
-[![Otis's GitHub stats](https://github-readme-stats.vercel.app/api?username=otienonick)](https://github.com/anuraghazra/github-readme-stats)
+[![Otis's GitHub stats](https://github-readme-stats.vercel.app/api?username=otienonick)](https://github.com/otienonick/github-readme-stats)
 
